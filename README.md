@@ -25,7 +25,7 @@ Project is created with
 Project is: _complete_ 
 
 ## Results
-![Graph_accuracy](https://github.com/Nurnazhifa/COVID-19-Malaysia-Cases/blob/main/graph.png)
+![Graph_accuracy](https://github.com/Nurnazhifa/Concrete_Cracks_Project/blob/main/epoch_accuracy.png)
 ![Graph_loss](https://github.com/Nurnazhifa/Concrete_Cracks_Project/blob/main/epoch_loss.png)
 
 ## Architecture
