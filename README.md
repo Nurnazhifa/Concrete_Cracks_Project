@@ -25,11 +25,11 @@ Project is created with
 Project is: _complete_ 
 
 ## Results
-![Graph]([https://github.com/Nurnazhifa/COVID-19-Malaysia-Cases/blob/main/graph.png](https://github.com/Nurnazhifa/Concrete_Cracks_Project/blob/main/epoch_accuracy.png))
-![Graph]([https://github.com/Nurnazhifa/COVID-19-Malaysia-Cases/blob/main/graph.png](https://github.com/Nurnazhifa/Concrete_Cracks_Project/blob/main/epoch_accuracy.png))
+![Graph_accuracy](https://github.com/Nurnazhifa/COVID-19-Malaysia-Cases/blob/main/graph.png)
+![Graph_loss](https://github.com/Nurnazhifa/Concrete_Cracks_Project/blob/main/epoch_loss.png)
 
 ## Architecture
-![Architecture of the model](https://github.com/Nurnazhifa/Concrete_Cracks_Project/blob/main/model.h5)
+![Architecture of the model]()
 
 ## Room for Improvement
 
