@@ -28,7 +28,7 @@ Project is: _complete_
 ![Graph](https://github.com/Nurnazhifa/COVID-19-Malaysia-Cases/blob/main/graph.png)
 
 ## Architecture
-![Architecture of the model](https://github.com/Nurnazhifa/COVID-19-Malaysia-Cases/blob/main/model.png)
+![Architecture of the model](https://github.com/Nurnazhifa/Concrete_Cracks_Project/blob/main/model.h5)
 
 ## Room for Improvement
 
