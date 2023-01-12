@@ -29,7 +29,7 @@ Project is: _complete_
 ![Graph_loss](https://github.com/Nurnazhifa/Concrete_Cracks_Project/blob/main/epoch_loss.png)
 
 ## Architecture
-![Architecture of the model]()
+![Architecture of the model](https://github.com/Nurnazhifa/Concrete_Cracks_Project/blob/main/model.png)
 
 ## Room for Improvement
 
